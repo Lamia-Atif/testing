@@ -4,7 +4,8 @@ function App() {
 
   return (
     <>
-    Hi
+    <div className="bg-red-500 w-4 h-4 rounded-xl shadow-lg">
+    </div>
     </>
   )
 }
